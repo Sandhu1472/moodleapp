@@ -1,8 +1,9 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
+    "app_id": "com.sandhu.academy",
+    "appname": "Sandhu Academy",
     "versioncode": 45000,
-    "versionname": "4.5.0",
+    "versionname": "1.0",
+    "siteurl": "http://sandhuacademy.com"
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
@@ -68,18 +69,6 @@
         "zh-tw": "正體中文"
     },
     "wsservice": "moodle_mobile_app",
-    "demo_sites": {
-        "student": {
-            "url": "https://school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https://school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
     "defaultZoomLevel": "none",
     "zoomlevels": {
         "none": 100,
